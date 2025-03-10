@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lAKITTYAI OWNER OF ANNIPUF & HOMEGIRLSWHOLAUNCHAI
+- 👋 Hi, I’m @lAKITTYAI OWNER OF META MORPH FITNESS & HOMEGIRLSWHOLAUNCHAI
 - 👀 I’m interested in ...BUILDING SAAS & COMMUNITY
-- 🌱 I’m currently learning ...BUBBLE/THE BASICS 
-- 💞️ I’m looking to collaborate on ...MY FIRST SAAS
+- 🌱 I’m currently learning ...SOFTWARE DEV/AGENT BUILDING 
+- 💞️ I’m looking to collaborate on ...A FEW PROJECTS
 - 📫 How to reach me ...MNJKITTEN@GMAIL.COM
 
 <!---
